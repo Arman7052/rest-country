@@ -29,3 +29,5 @@ const displayCountries = countries => {
     `
 }
 loadCountries();
+
+// --------------------------- //
